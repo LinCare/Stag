@@ -3,7 +3,6 @@
 **STAG** é uma atividade proposta pela **Equipe de Tecnologia da LinCare** às pessoas interessadas a vaga de estágio na equipe.
 A ideia principal da atividade é analisar os conhecimentos em relação à:
 
-- Modelagem de soluções;
 - Entendimento e interpretação de problemas;
 - Modelagem de soluções;
 - Raciocínio lógico;
